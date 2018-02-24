@@ -1,0 +1,42 @@
+/* for {revealjs} */
+
+/* image setting */
+.reveal  section img {
+  max-height: 500px;
+  border: none;
+  box-shadow: none;
+}
+
+.reveal {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.reveal h1 {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  color: darkblue;
+  font-size: 30pt;
+  text-align: center;
+}
+
+.reveal h2 {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  color: darkblue;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.reveal h3 {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  color: black;
+  font-size: 20pt;
+  text-align: center;
+}
+
+.reveal .slides>section {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 20pt;
+  text-align: left;
+}
+
+	
