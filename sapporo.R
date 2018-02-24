@@ -60,6 +60,7 @@ mes(result_t$estimate[1],result_t$estimate[2],result_sd[1],
 
 
 #Self defined function (22/2/2018, There may be some bugs.)
+
 #load daihiko_t.R
 source("daihiko_t.R")
 
